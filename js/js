@@ -1,0 +1,16 @@
+script>
+
+        function  calculadolar () 
+          
+            let real = document. getElementById("inpunt-real").Value
+            let dolar =document. getElementById("inpunt-dolar").Value
+
+            let resultado = real / dolar
+
+    
+
+    
+           alert ( resultado )
+        
+    
+    </script>
